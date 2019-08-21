@@ -28,7 +28,7 @@
   "lootboxes": [
     {
       "id": 1,
-      "name": "Platinum",
+      "name": "Free",
       "pricePretty": "Free",
       "price": 0,
       "features": [
@@ -41,9 +41,9 @@
     },
     {
       "id": 2,
-      "name": "Platinum",
-      "pricePretty": "Free",
-      "price": 0,
+      "name": "Premium",
+      "pricePretty": "$60",
+      "price": 60,
       "features": [
         "<b>2x</b> early bird flinch coin conversation",
         "<b>Join Devs</b> for weekly meeting on discord",
@@ -55,8 +55,8 @@
     {
       "id": 3,
       "name": "Platinum",
-      "pricePretty": "Free",
-      "price": 0,
+      "pricePretty": "$120",
+      "price": 120,
       "features": [
         "<b>2x</b> early bird flinch coin conversation",
         "<b>Join Devs</b> for weekly meeting on discord",
