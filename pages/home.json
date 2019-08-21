@@ -74,6 +74,21 @@
       }
     ]
   },
+  "details": {
+    "heading1": "Give us",
+    "heading2": "Your Details",
+    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "payment": {
+    "heading1": "Make A",
+    "heading2": "Payment",
+    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "welcome": {
+    "heading": "Welcome",
+    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "cta": "View Dashboard"
+  },
   "contact": {
     "heading1": "Not ready yet?",
     "heading2": "Lets talk.",
