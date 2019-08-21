@@ -5,13 +5,73 @@
     "subHeading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis leo quis enim.",
     "cta": "Discover More"
   },
-  "features": {
-    
-  },
-  "lootboxes": {
-    
-  },
+  "features": [
+    {
+      "btn": "Support",
+      "heading": "Support your favourite Streamer.",
+      "subHeading": "Each bet also goes to the streamer",
+      "image": "/assets/img/home/feature-1.svg"
+    },
+    {
+      "btn": "Earn",
+      "heading": "Earn money while watching.",
+      "subHeading": "Watch your favourite streamer or match!",
+      "image": "/assets/img/home/feature-2.svg"
+    },
+    {
+      "btn": "Betting",
+      "heading": "Bet on unique aspects of the game.",
+      "subHeading": "Bet on anything, not just win or lose.",
+      "image": "/assets/img/home/feature-3.svg"
+    }
+  ],
+  "lootboxes": [
+    {
+      "id": 1,
+      "name": 'Free',
+      "pricePretty": 'Free',
+      "price": 0,
+      "features": [
+        "<b>2x</b> early bird flinch coin conversation",
+        "<b>Join Devs</b> for weekly meeting on discord",
+        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+        "<b>Have your stream featured</b> on our founds page forever",
+        "<b>+All silver perks</b>",
+      ]
+    },
+    {
+      "id": 2,
+      "name": 'Premium',
+      "pricePretty": 'Free',
+      "price": 0,
+      "features": [
+        "<b>2x</b> early bird flinch coin conversation",
+        "<b>Join Devs</b> for weekly meeting on discord",
+        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+        "<b>Have your stream featured</b> on our founds page forever",
+        "<b>+All silver perks</b>",
+      ]
+    },
+    {
+      "id": 3,
+      "name": 'Platinum',
+      "pricePretty": 'Free',
+      "price": 0,
+      "features": [
+        "<b>2x</b> early bird flinch coin conversation",
+        "<b>Join Devs</b> for weekly meeting on discord",
+        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+        "<b>Have your stream featured</b> on our founds page forever",
+        "<b>+All silver perks</b>",
+      ]
+    },
+  ],
   "contact": {
-    
+    "heading1": "Not ready yet?",
+    "heading2": "Lets talk.",
+    "label": "Email",
+    "emailPlaceholder": "Email",
+    "icon": "alternate_email",
+    "btn": "Subscribe"
   }
 }
