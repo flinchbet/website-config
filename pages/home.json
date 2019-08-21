@@ -28,47 +28,52 @@
       "image": "/assets/img/home/feature-3.svg"
     }
   ],
-  "lootboxes": [
-    {
-      "id": 1,
-      "name": "Free",
-      "pricePretty": "Free",
-      "price": 0,
-      "features": [
-        "<b>2x</b> early bird flinch coin conversation",
-        "<b>Join Devs</b> for weekly meeting on discord",
-        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
-        "<b>Have your stream featured</b> on our founds page forever",
-        "<b>+All silver perks</b>"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Premium",
-      "pricePretty": "$60",
-      "price": 60,
-      "features": [
-        "<b>2x</b> early bird flinch coin conversation",
-        "<b>Join Devs</b> for weekly meeting on discord",
-        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
-        "<b>Have your stream featured</b> on our founds page forever",
-        "<b>+All silver perks</b>"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Platinum",
-      "pricePretty": "$120",
-      "price": 120,
-      "features": [
-        "<b>2x</b> early bird flinch coin conversation",
-        "<b>Join Devs</b> for weekly meeting on discord",
-        "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
-        "<b>Have your stream featured</b> on our founds page forever",
-        "<b>+All silver perks</b>"
-      ]
-    }
-  ],
+  "lootboxes": {
+    "heading1": "Early Bird",
+    "heading2": "Save 50%",
+    "subHeading": "Select one of the boxes to see whats inside.",
+    "boxes": [
+      {
+        "id": 1,
+        "name": "Free",
+        "pricePretty": "Free",
+        "price": 0,
+        "features": [
+          "<b>2x</b> early bird flinch coin conversation",
+          "<b>Join Devs</b> for weekly meeting on discord",
+          "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+          "<b>Have your stream featured</b> on our founds page forever",
+          "<b>+All silver perks</b>"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Premium",
+        "pricePretty": "$60",
+        "price": 60,
+        "features": [
+          "<b>2x</b> early bird flinch coin conversation",
+          "<b>Join Devs</b> for weekly meeting on discord",
+          "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+          "<b>Have your stream featured</b> on our founds page forever",
+          "<b>+All silver perks</b>"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Platinum",
+        "pricePretty": "$120",
+        "price": 120,
+        "features": [
+          "<b>2x</b> early bird flinch coin conversation",
+          "<b>Join Devs</b> for weekly meeting on discord",
+          "<b>Access</b> to our staging website <b>help us test</b> and see whats coming",
+          "<b>Have your stream featured</b> on our founds page forever",
+          "<b>+All silver perks</b>"
+        ]
+      }
+    ]
+  },
   "contact": {
     "heading1": "Not ready yet?",
     "heading2": "Lets talk.",
