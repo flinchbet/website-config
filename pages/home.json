@@ -8,18 +8,21 @@
   "features": [
     {
       "btn": "Support",
+      "btnIcon": "/assets/img/home/handshake.svg",
       "heading": "Support your favourite Streamer.",
       "subHeading": "Each bet also goes to the streamer",
       "image": "/assets/img/home/feature-1.svg"
     },
     {
       "btn": "Earn",
+      "btnIcon": "/assets/img/home/money-face.svg",
       "heading": "Earn money while watching.",
       "subHeading": "Watch your favourite streamer or match!",
       "image": "/assets/img/home/feature-2.svg"
     },
     {
       "btn": "Betting",
+      "btnIcon": "/assets/img/home/handout.svg",
       "heading": "Bet on unique aspects of the game.",
       "subHeading": "Bet on anything, not just win or lose.",
       "image": "/assets/img/home/feature-3.svg"
