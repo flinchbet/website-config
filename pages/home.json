@@ -1,6 +1,16 @@
 {
   "main": {
-    "title": "Welcome to",
-    "title2": "Flinch.bet"
+    "title": "We are",
+    "title2": "Flinch",
+    "cta": "Discover More"
+  },
+  "features": {
+    
+  },
+  "lootboxes": {
+    
+  },
+  "contact": {
+    
   }
 }
