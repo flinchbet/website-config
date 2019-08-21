@@ -1,7 +1,8 @@
 {
   "main": {
-    "title": "We are",
-    "title2": "Flinch",
+    "heading1": "We are",
+    "heading2": "Flinch",
+    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis leo quis enim.",
     "cta": "Discover More"
   },
   "features": {
