@@ -3,7 +3,7 @@
     "heading1": "Welcome to",
     "heading2": "Flinch Bet",
     "subHeading": "We're glad you've arrived.",
-    "cta": "Discover more >"
+    "cta": "Discover more"
   },
   "features": [
     {
@@ -75,19 +75,19 @@
     ]
   },
   "details": {
-    "heading1": "Give us",
+    "heading1": "Enter",
     "heading2": "Your Details",
-    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    "subHeading": "Get started by entering your details."
   },
   "payment": {
     "heading1": "Make A",
     "heading2": "Payment",
-    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    "subHeading": "Enter your card details below."
   },
   "welcome": {
     "heading": "Welcome",
-    "subHeading": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "cta": "View Dashboard"
+    "subHeading": "Congratulations and thank you for supporting our platform. Your awesomeness is recognized!",
+    "cta": "Whats Next?"
   },
   "contact": {
     "heading1": "Not ready yet?",
