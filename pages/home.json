@@ -97,5 +97,14 @@
     "emailPlaceholder": "Email",
     "icon": "alternate_email",
     "btn": "Subscribe"
+  },
+  "screen": {
+    "heading1": "Live Status:",
+    "heading2": "Launching Soon",
+    "subHeading": "Subscribe below to be notified of when we are live.<br>Hint it'll be real soon!",
+    "label": "Email",
+    "emailPlaceholder": "Email",
+    "icon": "alternate_email",
+    "btn": "Subscribe"
   }
 }
