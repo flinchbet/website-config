@@ -100,10 +100,10 @@
   },
   "screen": {
     "heading1": "Live Status:",
-    "heading2": "Launching Soon",
-    "subHeading": "Subscribe below to be notified of when we are live.<br>Hint it'll be real soon!",
+    "heading2": "Almost ready",
+    "subHeading": "Subscribe below to be notified of when we are live.<br> See you soon, Twitch",
     "label": "Email",
-    "emailPlaceholder": "Email",
+    "emailPlaceholder": "Type here",
     "icon": "alternate_email",
     "btn": "Subscribe"
   }
