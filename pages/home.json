@@ -2,7 +2,7 @@
   "main": {
     "heading1": "Welcome to",
     "heading2": "Flinch Bet",
-    "subHeading": "We're glad you've arrived.",
+    "subHeading": "Live stream betting platform that will change everything.<br> Bet you didn't see this coming",
     "cta": "Discover more"
   },
   "features": [
@@ -101,7 +101,7 @@
   "screen": {
     "heading1": "Live Status:",
     "heading2": "Almost ready",
-    "subHeading": "Subscribe below to be notified of when we are live.<br> See you soon, Twitch",
+    "subHeading": "Subscribe to our newsletter to be notified when we are live.<br> See you soon, Twitch",
     "label": "Email",
     "emailPlaceholder": "Type here",
     "icon": "alternate_email",
